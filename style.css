@@ -86,10 +86,10 @@
 }
 
 .card-title {
-    line-height: 1.2;
+    line-height: 1;
     padding-top: 10px;
     font-family: 'Fraunces', serif;
-    font-weight: 700;
+    font-weight: 900;
     color: var(--clr-neutral-dark);
 }
 
